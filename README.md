@@ -6,7 +6,7 @@
 
 <br>
 
-## <div style="display:flex; align-items:center" ><img src= "https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif?cid=ecf05e47ave1i5ha26rhds65od1c8j0aqo7rq46gw3z2q9bi&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" style="margin-top: 30"/> <div style="margin-top:30px">**About me**<div></div>
+## <div style="display:flex; align-items:center" ><img src= "https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif?cid=ecf05e47ave1i5ha26rhds65od1c8j0aqo7rq46gw3z2q9bi&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" style="margin-top: 30"/> <b style="margin-top:30px">About me</b></div>
 
 <br>
 
@@ -27,17 +27,18 @@
 <p align="center">
 
 - **Languages**:
+  
   ![Swift](https://img.shields.io/badge/swift%20-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 
 <br>   
     
 - **Front-End Development**:
 
-![iOS](https://img.shields.io/badge/ios%20-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/xcode%20-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![iOS](https://img.shields.io/badge/ios%20-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+  ![iOS](https://img.shields.io/badge/xcode%20-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
@@ -88,11 +89,10 @@
 <br>
 <br>
 
-## <div style="display:flex; align-items:center"><img src="https://media.giphy.com/media/GDs9d9ctyvm3KEfyFM/giphy.gif?cid=ecf05e4759upxu3y8stw9dohjcc47b3o4tppxhz0f7tsxa2k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="80"><b> How to Contact </b></div>
+## <div><img src="https://media.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif?cid=ecf05e47u4f8tnm1l95q02p8ni5oa5xenyrz6gxdp6eh3ydd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" ><span> How to Contact Me </span></div>
 
 <br>
 <div style = "margin-left:25px">
-
 <a href="mailto:dkxl0701@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  SunEom-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
