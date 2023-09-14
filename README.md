@@ -11,12 +11,15 @@
 <br>
 
 - I'm Studying for being a iOS Developer
-- Currently learning for...
+- Currently interested in...
   - Swift Clean Architecture
   - Unit Test
   - RxSwift
+---
+### Portfolio
+[📖 포트폴리오](https://github.com/SunEom/SunEom/files/12610459/default.pdf)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -25,25 +28,26 @@
 <br>
 
 <p align="center">
+
+  <b>자주 사용해왔어요</b>
   
   ![Swift](https://img.shields.io/badge/swift%20-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
   ![iOS](https://img.shields.io/badge/ios%20-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
   ![iOS](https://img.shields.io/badge/xcode%20-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
   ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-  
-<br>   
-
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![amazonaws](https://img.shields.io/badge/aws&nbsp;ec2-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
+  
 <br>
+
+  <b>사용해본적 있어요</b>
   
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+  ![amazonaws](https://img.shields.io/badge/aws&nbsp;ec2-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  
 </p>
 
 <br>
