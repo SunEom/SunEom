@@ -17,7 +17,7 @@
   - RxSwift
 ---
 ### Portfolio
-[📖 포트폴리오](https://github.com/SunEom/SunEom/files/12610459/default.pdf)
+[📖 포트폴리오](./포트폴리오.pdf)
 
 <br>
 
