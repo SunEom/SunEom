@@ -1,14 +1,6 @@
 <h1 align="center"><b>Hi , I'm SunEom </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/SunEom"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+iOS+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs!"></a>
-</p>
-
-<br>
-
 ## <div style="display:flex; align-items:center" ><img src= "https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif?cid=ecf05e47ave1i5ha26rhds65od1c8j0aqo7rq46gw3z2q9bi&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" style="margin-top: 30"/> <b style="margin-top:30px">About me</b></div>
-
-<br>
 
 - I'm Studying for being a iOS Developer
 - Currently interested in...
