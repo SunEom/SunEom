@@ -7,6 +7,8 @@
   - Swift Clean Architecture
   - Unit Test
   - RxSwift
+  - SwiftUI
+    
 ---
 ### Portfolio
 [📖 포트폴리오](./포트폴리오.pdf)
